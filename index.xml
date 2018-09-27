@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meerkat Lab</title>
+    <link>http://meerkat.studio/</link>
+    <description>Recent content on Meerkat Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:11 +0000</lastBuildDate>
+    
+	<atom:link href="http://meerkat.studio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Where is next level 27.09.2018</title>
+      <link>http://meerkat.studio/posts/build_13.09.2018/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:11 +0000</pubDate>
+      
+      <guid>http://meerkat.studio/posts/build_13.09.2018/</guid>
+      <description>We launched our first game in [Taptap]https://www.taptap.com/app/141520
+And will soon launch our game in Google Play and Apple Store.</description>
+    </item>
+    
+  </channel>
+</rss>
